@@ -9,6 +9,6 @@ This is the GitHub organization for People And Parliament project. It includes:
 
 Instructions on how to use notebook repos found here in Colab.
 
-1. Do X
-2. Do Y
+1. Go to [colab.research.google.com/github/PeopleAndParliament](https://colab.research.google.com/github/PeopleAndParliament)
+2. Choose the relevant notebook repository.
 3. ?

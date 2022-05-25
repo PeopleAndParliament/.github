@@ -1,6 +1,9 @@
 # People And Parliament
 
-README placeholder text ...
+This is the GitHub organization for People And Parliament project. It includes:
+
+* Code for downloading the raw data of the various parliamentary data, processing that into research ready format, and some evaluation code.
+* Code snippets and notebooks for further data processing and analysis.
 
 ## Google Colab
 
